@@ -1,5 +1,5 @@
 
-## 권지혜  Kwon Jihye 
+##권지혜  Kwon Jihye 
 
 ***
 
@@ -8,14 +8,14 @@
 - Github: https://github.com/jeehge
 
 
-## 경력
+###경력
 
 ***
 
 - 2018.10 ~ 현재 **실비모바일** ######개발1팀 선임 연구원
 - 2014.04 ~ 2018.09 |   **바루소프트**   |   Mobile Solution |   주임 연구원
 
-## 교육
+###교육
 
 ***
 
@@ -23,7 +23,7 @@
 > AVA, Oracle, Spring Framework, Android, iBatis, NFC, Network 통신 등등
 
 
-## 자격증
+###자격증
 
 ***
 
