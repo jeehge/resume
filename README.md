@@ -2,14 +2,11 @@
 # Kwon Jihye 
 
 
-
 - Mail : taerg89@gmail.com
 - 블로그 : https://blog.naver.com/taerg89
 - Github: https://github.com/jeehge
 
-
-
-
+  
 
 ## 경력
 
@@ -18,9 +15,7 @@
 - 2014.04 ~ 2018.09 |   **바루소프트**   |   Mobile Solution |   주임 연구원
 
 
-
-
-
+  
 ## 교육
 
 
@@ -28,7 +23,7 @@
 
 
 
-
+  
 
 ## 자격증
 
@@ -38,7 +33,7 @@
 
 
 
-
+  
 
 ## 보유기술
 
@@ -52,7 +47,7 @@
     Git, SVN
     
 
-    
+      
 ## 활용 기술
 
 
@@ -64,7 +59,7 @@
 - NFC
 - Custom Scheme
 
-
+  
 
 ## 활용 오픈소스
 
@@ -81,7 +76,7 @@
 - SQLite
 
 
-
+  
 ## **개인 프로젝트**
 
 
