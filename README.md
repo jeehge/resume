@@ -77,8 +77,8 @@
 ### **지혜로운 메모**
  >  일상을 기록하는 메모장
 
+<img width="100" src="./Image/memo_icon.png" alt="지혜로운 메모">
 
-![MemoIcon](./Image/memo_icon.png){: width="100" height="100"}
 [다운로드](https://apps.apple.com/us/app/jhmemo/id1347454816?l=ko&ls=1&mt=8%29)
 
 - 기간 : 2018.01 ~ 2018.02
