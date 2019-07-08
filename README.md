@@ -5,12 +5,6 @@
 - 블로그  :  https://blog.naver.com/taerg89
 - Github  :  https://github.com/jeehge
 
-<br>
-
-## 경력
-
-- 2018.10 ~ 현재   **실비모바일**   개발1팀    선임 연구원
-- 2014.04 ~ 2018.09    **바루소프트**    Mobile Solution 주임 연구원
 
 <br>
 
