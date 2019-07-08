@@ -86,7 +86,7 @@
 
 #### 실행화면
 
-![텍스트](./Image/memo_icon.jpg)
+![텍스트](./Image/project_memo.png)
 
 #### 시행착오
 
