@@ -158,8 +158,9 @@
 #### 시행착오
 
 1. 애플심사에서 많은 리젝을 당함 (Guideline 4.2 - Design - Minimum Functionality) → 알림 기능, 공유하기 등등 다양하 기능 추가
-2. MATERIAL DESIGN 적용하면서 다양한 문제 해결 -→ Button 이나 Dialog 사용하려고 하는데 사용법이 내 생각과 다름
+2. MATERIAL DESIGN 적용하면서 다양한 문제 해결 → Button 이나 Dialog 사용하려고 하는데 사용법이 내 생각과 다름
     참고사이트가 잘되어 있어서 금방 해결 (https://material.io/develop/)
+3. iPhoneSE에서 텍스트, 버튼 등등 너무 크 보임 → 해상도 지원. UI의 높이, 너비를 비율로 변경 그리고 텍스트 크기도 해상도에 따라 조절할 수 있게 변경
 
 
 #### 이 프로젝트를 통해
