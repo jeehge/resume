@@ -42,7 +42,6 @@
 - AutoLayout, xib
 - APNS, Local Notification
 - Bluetooth
-- NFC
 - Custom Scheme
 - WKWebView
 
@@ -51,16 +50,11 @@
 
 ## 활용 오픈소스
 
-- Alamofire
-- AFNetworking
-- SwiftyJSON
+- Alamofire/AFNetworking
 - Firebase
 - FMDB
 - Crashlytics
 - SDWebImage
-- Crashlytics
-- SQLite
-
 
 <br>
 
