@@ -42,7 +42,7 @@
 - AutoLayout, xib
 - APNS, Local Notification
 - Bluetooth
-- Custom Scheme
+- NFC
 - WKWebView
   
 <br>
@@ -53,7 +53,7 @@
 - Firebase
 - FMDB
 - Crashlytics
-- SDWebImage
+- kingFisher
 
 <br>
 
