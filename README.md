@@ -43,6 +43,7 @@
 - APNS, Local Notification
 - Bluetooth
 - NFC
+- Bluetooth, BLE
 - WKWebView
   
 <br>
