@@ -141,6 +141,10 @@ kt wiz 야구단 공식 어플리케이션
     
 - 앱스토어 주소 : https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8
 
+#### 실행화면
+
+![preview](./Image/wizzap_preview.png)
+
 
 ### **every air**
 
@@ -159,5 +163,7 @@ kt wiz 야구단 공식 어플리케이션
     
 - 앱스토어 주소 : https://apps.apple.com/kr/app/에브리에어/id1436573324
 
+#### 실행화면
 
+![preview](./Image/everyair_preview.png)
 
