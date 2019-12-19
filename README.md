@@ -1,5 +1,10 @@
 
+
 # Kwon Jihye 
+
+
+<img width="100" src="./Image/profileImage.png" alt="">
+
 
 - Mail  :  taerg89@gmail.com
 - 블로그  :  https://blog.naver.com/taerg89
@@ -115,6 +120,44 @@
     → UITableView 관련 알고리즘 변경
     → FMDB 관련 DBManager 구조 변경
     → Storyboard 분리를 통해 화면 분리
+
+
+## **회사 프로젝트**
+
+### **Wizzap**
+
+kt wiz 야구단 공식 어플리케이션
+
+- 기간 : 2016.06 ~ 2018.09
+
+- 사용언어 : Objective-C
+
+- 담당업무 : 유지보수
+
+    → wizzap 2.0 서비스 및 고도화
+
+    → iPhone X 대응 및 Frame 으로 작업된 화면 오토레이아웃으로 변경하는 작업
+    
+    
+- 앱스토어 주소 : https://itunes.apple.com/kr/app/wizzap/id975125575?mt=8
+
+
+### **every air**
+
+미세먼지로부터 내 몸과 가족을 보호하는 스마트한 방법, 에브리에어
+
+- 기간 : 2017.12 ~ 2018.04
+
+- 사용언어 : Objective-C
+
+- 담당업무 : 설계, 개발
+
+    → 하이브리드앱
+
+    → 블루투스 장비와 연결 및 정보를 주고 받는 작업
+    
+    
+- 앱스토어 주소 : https://apps.apple.com/kr/app/에브리에어/id1436573324
 
 
 
