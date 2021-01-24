@@ -19,7 +19,7 @@
     Swift, Objective-C 
 
 - Tool   
-    TestFlight, fabric, Notion, Sourcetree, JIRA, Slack
+    TestFlight, Notion, Sourcetree, JIRA, Slack, JANDI 
 
 - 형상관리   
     Git, SVN
@@ -33,9 +33,8 @@
 - json, xml parse
 - AutoLayout, xib
 - APNS, Local Notification
-- Bluetooth
-- NFC
 - Bluetooth, BLE
+- NFC
 - WKWebView
   
 <br>
@@ -108,10 +107,8 @@
     → FMDB 관련 DBManager 구조 변경
     → Storyboard 분리를 통해 화면 분리
 
-
-
 <br>
-\\<!--
+
 ## **회사 프로젝트**
 
 ### **Wizzap**
@@ -170,9 +167,6 @@ iOS를 담당하게 되면서 처음 맡은 프로젝트입니다. UI 관련해�
 #### 시행착오
 
 처음 메인으로 담당했던 프로젝트입니다. 기존에 사용할 기회가 없었던 WKWevKit, BLE에 대해서 알 수 있는 좋은 기회였습니다. 설계 과정부터 모든 협의에 참여했으며 iOS 개발자로써 한 단계 성장할 수 있었습니다. 
--->
-
-
 
 
 <br>
