@@ -16,7 +16,7 @@
 ## 보유기술
 
 - Language   
-    Swift, Objective-C 
+    Swift, Objective-C, SwiftUI
 
 - Tool   
     TestFlight, Notion, Sourcetree, JIRA, Slack, JANDI 
@@ -46,6 +46,7 @@
 - FMDB
 - Crashlytics
 - kingFisher
+- SwiftLint
 
 <br>
 
