@@ -13,17 +13,31 @@
 
 <br>
 
-## 보유기술
+## SKILLS
 
 - Language   
     Swift, Objective-C, SwiftUI
 
 - Tool   
-    TestFlight, Notion, Sourcetree, JIRA, Slack, JANDI 
+    TestFlight, Notion, Sourcetree, JIRA, Slack, JANDI, Wiki 
 
 - 형상관리   
     Git, SVN
     
+
+<br>
+
+## Open Source
+
+- RxSwift
+- Alamofire/AFNetworking
+- Firebase
+- FMDB
+- Kingfisher
+- ChannelIO
+- SnapKit
+- Then
+- SwiftLint
 
 <br>
 
@@ -35,18 +49,7 @@
 - APNS, Local Notification
 - Bluetooth, BLE
 - NFC
-- WKWebView
-  
-<br>
-
-## 활용 오픈소스
-
-- Alamofire/AFNetworking
-- Firebase
-- FMDB
-- Crashlytics
-- kingFisher
-- SwiftLint
+- WebKit
 
 <br>
 
