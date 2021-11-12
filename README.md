@@ -41,7 +41,7 @@
 
 <br>
 
-## 활용 기술
+## TECHNOLOGY
 
 - RESTful API
 - json, xml parse
