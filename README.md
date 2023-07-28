@@ -19,7 +19,7 @@
     Swift, Objective-C, SwiftUI
 
 - Tool   
-    TestFlight, Notion, Sourcetree, JIRA, Slack, JANDI, Wiki 
+    TestFlight, Notion, Sourcetree, JIRA, Slack, JANDI, Wiki
 
 - 형상관리   
     Git, SVN
